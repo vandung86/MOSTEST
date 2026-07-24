@@ -1,0 +1,48 @@
+{
+  "project_1": [
+    {
+      "task_idx": 0,
+      "type": "check_style_set",
+      "message": "Chính xác! Đã áp dụng Style Set Lines (Stylish)."
+    },
+    {
+      "task_idx": 1,
+      "type": "check_bullet_list",
+      "keyword": "banksianae",
+      "message": "Chính xác! Đã chuyển các đoạn văn thành danh sách bullet đúng yêu cầu."
+    },
+    {
+      "task_idx": 2,
+      "type": "check_footnote",
+      "keyword": "includes address",
+      "message": "Chính xác! Đã tìm thấy Footnote với nội dung 'includes Address'."
+    },
+    {
+      "task_idx": 3,
+      "type": "check_different_first_page",
+      "message": "Chính xác! Đã cấu hình hiển thị header ngoại trừ trang đầu tiên."
+    },
+    {
+      "task_idx": 4,
+      "type": "check_font_symbol",
+      "keyword": "with the vision of sharing",
+      "font": "webdings",
+      "message": "Chính xác! Đã chèn ký tự biểu tượng với font Webdings."
+    },
+    {
+      "task_idx": 5,
+      "type": "check_inline_shape_exists",
+      "message": "Chính xác! Đã ghi nhận hình ảnh được áp dụng hiệu ứng nghệ thuật."
+    },
+    {
+      "task_idx": 6,
+      "type": "check_table_merged_row",
+      "message": "Chính xác! Hàng đầu tiên của bảng đã được gộp ô (Merge Cells)."
+    },
+    {
+      "task_idx": 7,
+      "type": "check_text_wrapping",
+      "message": "Chính xác! Đã cấu hình kiểu text wrapping cho hình ảnh."
+    }
+  ]
+}
