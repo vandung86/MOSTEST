@@ -1,0 +1,122 @@
+{
+  "Project 1": [
+    { "task_index": 0, "type": "style_set", "expected": "Lines", "description": "Apply Lines style set." },
+    { "task_index": 1, "type": "bullet_list_align", "section": "Rosa", "description": "Convert paragraphs to bulleted list." },
+    { "task_index": 2, "type": "footnote_insert", "section": "Contact Us", "expected_text": "includes Address", "description": "Insert footnote." },
+    { "task_index": 3, "type": "header_different_first_page", "expected_style": "Integral", "description": "Header different first page." },
+    { "task_index": 4, "type": "insert_symbol", "section": "About Us", "font": "Webdings", "char_code": 126, "description": "Insert lightning symbol." },
+    { "task_index": 5, "type": "image_artistic_effect", "section": "Rosa", "expected_effect": "Pencil Sketch", "description": "Apply Pencil Sketch." },
+    { "task_index": 6, "type": "table_merge_cells", "location": "bottom_first_page", "description": "Merge first table row." },
+    { "task_index": 7, "type": "image_text_wrapping", "expected": "Square", "description": "Wrap text Square." }
+  ],
+    "Project 2": [
+    { "task_index": 0, "type": "delete_text", "keyword": "automatic", "description": "Delete 'automatic'." },
+    { "task_index": 1, "type": "replace_text", "find": "Informatics Technology", "replace": "Basic Informatics", "description": "Replace text." },
+    { "task_index": 2, "type": "convert_text_to_table", "section": "Lecturers", "expected_columns": 3, "description": "Convert to table." },
+    { "task_index": 3, "type": "insert_toc", "expected_style": "Automatic Table 1", "description": "Insert TOC." },
+    { "task_index": 4, "type": "textbox_insert_text", "section": "Contact Us", "expected_text": "Anytime Account Access", "description": "Insert text in textbox." },
+    { "task_index": 5, "type": "delete_comment", "section": "Lecturers", "attached_text": "proud", "description": "Delete comment." },
+    { "task_index": 6, "type": "line_spacing_exact", "section": "Overview", "expected_pt": 14, "description": "Line spacing 14pt." },
+    { "task_index": 7, "type": "paragraph_style", "section": "Lecturers", "expected_style": "Intense Emphasis", "description": "Apply style." }
+  ],
+  "Project 3": [
+    { "task_index": 0, "type": "accessibility_table", "expected": true, "description": "Fix table accessibility." },
+    { "task_index": 1, "type": "page_3_orientation", "expected": "landscape", "description": "Page 3 landscape." },
+    { "task_index": 2, "type": "table_column_width", "section": "Introduce", "expected_cm": 3.98, "description": "Resize columns." },
+    { "task_index": 3, "type": "citation_placeholder", "keyword": "MOS", "description": "Insert MOS citation." },
+    { "task_index": 4, "type": "smartart_direction", "expected": "left-to-right", "description": "SmartArt direction." },
+    { "task_index": 5, "type": "smartart_alt_text", "expected_text": "Process flow", "description": "Alt text Process flow." },
+    { "task_index": 6, "type": "document_property_category", "expected": "hocict.edu.vn", "description": "Add category." },
+    { "task_index": 7, "type": "format_painter_check", "section": "Microsoft Office Specialist", "description": "Format painter." }
+  ],
+  "Project 4": [
+    { "task_index": 0, "type": "table_sort", "section": "MOS 2019", "sort_by_1": "Date", "sort_by_2": "Score", "description": "Sort table." },
+    { "task_index": 1, "type": "list_level", "section": "IC3 Certification", "expected_level": 3, "description": "List level 3." },
+    { "task_index": 2, "type": "insert_3d_model", "section": "IC3 Certification", "model_name": "Glasses", "description": "Insert 3D model." },
+    { "task_index": 3, "type": "image_artistic_effect", "section": "IC3 Certification", "expected_effect": "Pencil Sketch", "description": "Apply effect." },
+    { "task_index": 4, "type": "insert_section_break", "location": "MOS 2019", "break_type": "Continuous", "description": "Section break." },
+    { "task_index": 5, "type": "table_repeat_header", "description": "Repeat header." },
+    { "task_index": 6, "type": "smartart_shape_effect", "section": "MOS Level", "effect": "Soft Round", "description": "Soft Round effect." },
+    { "task_index": 7, "type": "image_text_wrapping", "section": "MOS Certification", "expected": "Square", "description": "Wrap Square." }
+  ],
+  "Project 5": [
+    { "task_index": 0, "type": "document_line_spacing", "expected_ratio": 1.4, "description": "Line spacing 1.4." },
+    { "task_index": 1, "type": "list_continue_numbering", "section": "Categories", "description": "Continue numbering." },
+    { "task_index": 2, "type": "columns_split", "expected_columns": 2, "description": "Split columns." },
+    { "task_index": 3, "type": "paragraph_keep_with_next", "heading": "Founder Information", "description": "Keep with next." },
+    { "task_index": 4, "type": "citation_placeholder", "keyword": "Signature1", "description": "Insert citation." },
+    { "task_index": 5, "type": "resolve_comment", "section": "Founder Information", "description": "Resolve comment." },
+    { "task_index": 6, "type": "insert_shape_text", "text": "Congratulation!", "wrapping": "Square", "description": "Insert shape." },
+    { "task_index": 7, "type": "document_inspect_remove", "target": "headers_footers_watermarks", "description": "Remove headers/footers." }
+  ],
+  "Project 6": [
+    { "task_index": 0, "type": "image_artistic_effect", "expected_effect": "Pencil Sketch", "description": "Apply effect." },
+    { "task_index": 1, "type": "page_border", "color": "Red, Accent 1", "description": "Page border." },
+    { "task_index": 2, "type": "custom_bullets", "font": "Segoe UI Emoji", "char_code": "25B8", "description": "Custom bullets." },
+    { "task_index": 3, "type": "document_property_category", "expected": "Certificate", "description": "Add category." },
+    { "task_index": 4, "type": "replace_text", "find": "community", "replace": "connectivity", "description": "Replace text." },
+    { "task_index": 5, "type": "add_hyperlink_to_image", "url": "https://www.facebook.com/hocict.edu.vn", "description": "Add hyperlink." },
+    { "task_index": 6, "type": "clear_formatting", "keyword": "awarded to", "description": "Clear formatting." },
+    { "task_index": 7, "type": "save_as_template", "filename": "Cert", "description": "Save template." }
+  ],
+  "Project 7": [
+    { "task_index": 0, "type": "compatibility_mode_off", "description": "Off compatibility mode." },
+    { "task_index": 1, "type": "header_text_effect", "description": "Header text effect." },
+    { "task_index": 2, "type": "image_text_wrapping", "section": "Author", "expected": "Square", "description": "Wrap Square." },
+    { "task_index": 3, "type": "add_bookmark", "bookmark_name": "Ico", "description": "Add bookmark." },
+    { "task_index": 4, "type": "toc_level_filter", "expected_level": 1, "description": "TOC level 1." },
+    { "task_index": 5, "type": "replace_text", "find": "lytranthaihoc", "replace": "ltthoc", "description": "Replace text." },
+    { "task_index": 6, "type": "convert_footnotes_to_endnotes", "description": "Footnotes to endnotes." },
+    { "task_index": 7, "type": "save_as_template", "filename": "Notes", "description": "Save template." }
+  ],
+  "Project 8": [
+    { "task_index": 0, "type": "footnote_insert", "expected_text": "Free resources", "description": "Insert footnote." },
+    { "task_index": 1, "type": "custom_page_margins", "description": "Margins 0.75, 0.5." },
+    { "task_index": 2, "type": "accessibility_table", "description": "Check accessibility." },
+    { "task_index": 3, "type": "clear_formatting", "keyword": "MOS is the only justification", "description": "Clear formatting." },
+    { "task_index": 4, "type": "table_cell_spacing", "spacing_inch": 0.02, "description": "Cell spacing." },
+    { "task_index": 5, "type": "resolve_comment", "section": "MOS Version", "description": "Resolve comment." },
+    { "task_index": 6, "type": "image_border_color", "color": "Blue, Accent 1, Darker 25%", "description": "Border color." },
+    { "task_index": 7, "type": "track_changes_accept", "description": "Accept changes." }
+  ],
+  "Project 9": [
+    { "task_index": 0, "type": "add_bookmark", "bookmark_name": "Cheating", "description": "Add bookmark." },
+    { "task_index": 1, "type": "insert_table_with_headers", "section": "Rating", "description": "Insert table." },
+    { "task_index": 2, "type": "list_start_number", "start_val": 111, "description": "List start 111." },
+    { "task_index": 3, "type": "smartart_direction", "description": "SmartArt direction." },
+    { "task_index": 4, "type": "style_set", "expected": "Centered", "description": "Apply style set." },
+    { "task_index": 5, "type": "table_column_width", "expected_inch": 3.2, "description": "Column width." },
+    { "task_index": 6, "type": "custom_bullets", "font": "Segoe UI Emoji", "char_code": "25B8", "description": "Custom bullets." },
+    { "task_index": 7, "type": "save_as_txt", "filename": "Memo", "description": "Save text file." }
+  ],
+  "Project 10": [
+    { "task_index": 0, "type": "table_merge_cells", "description": "Merge cells." },
+    { "task_index": 1, "type": "insert_picture", "image_name": "Certificate", "description": "Insert picture." },
+    { "task_index": 2, "type": "footnote_insert", "expected_text": "includes biographical information", "description": "Insert footnote." },
+    { "task_index": 3, "type": "paragraph_style", "expected_style": "Intense Emphasis", "description": "Apply style." },
+    { "task_index": 4, "type": "delete_comment", "attached_text": "Informatics", "description": "Delete comment." },
+    { "task_index": 5, "type": "format_painter_check", "description": "Format painter." },
+    { "task_index": 6, "type": "toc_level_filter", "expected_level": 1, "description": "TOC level." },
+    { "task_index": 7, "type": "convert_endnotes_to_footnotes", "description": "Endnotes to footnotes." }
+  ],
+  "Project 11": [
+    { "task_index": 0, "type": "track_changes_accept", "description": "Accept changes." },
+    { "task_index": 1, "type": "smartart_alt_text", "expected_text": "Process_flow", "description": "Alt text." },
+    { "task_index": 2, "type": "insert_symbol", "font": "Webdings", "char_code": 225, "description": "Insert symbol." },
+    { "task_index": 3, "type": "document_line_spacing", "expected_ratio": 1.4, "description": "Line spacing." },
+    { "task_index": 4, "type": "list_continue_numbering", "description": "Continue numbering." },
+    { "task_index": 5, "type": "image_text_wrapping", "expected": "Square", "description": "Wrap Square." },
+    { "task_index": 6, "type": "insert_toc", "description": "Insert TOC." },
+    { "task_index": 7, "type": "line_spacing_exact", "expected_pt": 14, "description": "Line spacing 14pt." }
+  ],
+  "Project 12": [
+    { "task_index": 0, "type": "columns_split", "expected_columns": 2, "description": "Split columns." },
+    { "task_index": 1, "type": "style_set", "expected": "Basic (Stylish)", "description": "Apply style set." },
+    { "task_index": 2, "type": "table_text_style", "expected_style": "Subtle Emphasis", "description": "Apply style." },
+    { "task_index": 3, "type": "page_border", "color": "Green, Accent 1", "description": "Page border." },
+    { "task_index": 4, "type": "header_text_effect", "description": "Header effect." },
+    { "task_index": 5, "type": "insert_section_break", "break_type": "Continuous", "description": "Section break." },
+    { "task_index": 6, "type": "table_repeat_header", "description": "Repeat header." },
+    { "task_index": 7, "type": "insert_picture", "image_name": "Map", "description": "Insert Map." }
+  ]
+}
