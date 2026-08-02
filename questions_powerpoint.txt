@@ -1,0 +1,108 @@
+#Project 01
+On slide 6, add the alt text description "Ly Tran Thai Hoc" to the upper-right image.
+On slide 5, in the left-content placeholder, insert a Vertical Box List SmartArt graphic that contains the text "Good Knowledge", "Strong Skills", and "Professional Attitude" from top to bottom
+On slide 1, insert a Slide Zoom link to the "Instructors" slide. Place the slide zoom thumbnail in the lower-right corner of the slide.
+On slide 3, align the top edges of the images. Do not move the images horizontally.
+On slide 8, modify the chart to display a data table with legend keys.
+On slide 6, group the four images.
+On the "Modern facilities" slide, enlarge the smallest star shape to exactly the size of the other stars. The exact location of the star does not matter.
+On slide 5, change the view of the 3D model to Above Front Right. Resize the model to a height of 5.2" (13.20 cm).
+#Project 02
+Create a section named "Office 2019" that includes only slides 12 through 14.
+On slide 4, configure a heart motion path animation for the star shape.
+On the "Exams Lengths" slide, delete the "Note" column. Centering the table on the slide is optional.
+Hide slide 7.
+On slide 4, convert the bulleted list to a Basic Block List SmartArt graphic.
+On slide 8, apply the Bevel Perspective picture style and Paint Strokes artistic effect to certificate image.
+On slide 3, apply the Inside: Bottom Left shadow effect to both arrows. Set the shadow distance to 6pt.
+On slide 5, lock the aspect ratio of the cloud shape and then double its height.
+#Project 03
+On slide 8, set the bulleted list animation effect direction to From Left and change the duration to 1.5 seconds.
+On slide 9, insert the Office video from the Videos folder. Place the video to the right of the image. The exact size and position of the video do not matter.
+On slide 18, in the content placeholder, create a Line with Markers chart that displays the table content. You may copy and paste or manually enter the table data in the chart worksheet.
+On the "MOSWC 2023" slide, apply Bevel Perspective Left, White picture style and Paint Brush artistic effect to image.
+On slide 2, insert a Section Zoom link to "Section 2: MOSWC-VN", "Section 3: MOSWC-NTTU" and "Section 4: Report". Reposition the section thumbnail in black rectangle so that unstack them. The exact order and location of the thumbnails does not matter.
+On slide 12, using the tools on the Draw tab, highlight the text "???" with the highlighter Yellow, 6mm
+On slide 14, change the chart type to Clustered Bar chart.
+For all slides, set the transition variation to Strips Out.
+#Project 04
+At the end of the presentation, insert the slides of the Logistics Services presentation slides contained in the Documents folder. After inserting the slides, slide 3 should be the one titled "Warehousing", slide 4 titled "Custom Brokerage", slide 5 titled "Barge & Truck Transportation" and the last slide is titled "International Freight Forwarding".
+On slide 3, use the 3D Models feature to insert the Wooden Box model from the 3D Objects folder. Resize the model to a height of 1.66" (4.2 cm) and a width of 2.8" (7.1cm). Place the model in the empty rectangle on the left.
+Insert a slide footer that displays the slide number and the word "LAIP-Draft". Apply the footer to all slides except the title slide.
+After the Logistics Services" slide, insert a Summary Zoom slide that links only to the "Warehousing", "Customs Brokerage", "Barge & Truck Transportation", and "International Freight Forwarding" slides.
+On slide 2, apply the Inside: Top Left shadow effect to four arrows. Set the shadow distance to 3pt.
+On the "Long An Internation Port" slide, convert the text "www.longanport.com" to a hyperlink. Change the display text to "Contact Us"
+Configure the print options to print three copies of Notes Pages for all slides. All copies of page 1 must print before copies of page 2.
+Remove hidden properties and personal information from the presentation. Do not delete any other content.
+#Project 05
+Configure the printing options to print five copies of the Notes Pages for the presentation in Portrait Orientation. All copies of page 1 should print before any copies of page 2.
+On slide 1, crop the image of the car so that its right edge aligns with the right edge of the slide. Do not change the image scale.
+On slide 3, format the bulleted list so that it appears in two columns layout
+On slide 4, in the content placeholder, insert a Vertical Curved List SmartArt graphic. Type the text "Person" for the first shape and the second shape with the text "Travel". Delete unused shapes.
+Insert a footer that displays the slide number and www.pvi.com.vn. Apply the footer to every slide except the tittle slide.
+On slide 3, apply the Swivel animation to the car shape.
+On slide 1, change the view of the 3D model to Above Front Right. Resize the model to a height of 4.5" (11.43 cm)
+For all slides, set the transition duration to 2 seconds.
+#Project 06
+On the Handout Master, change the left header to display "HOCICT Official Channel" and the left footer to display "www.hocict.edu.vn"
+On the "Good Learning Environment" slide only, set the slide background to the Shaking Hands image from the Pictures folder. Set the background image transparency to 75%.
+After the "Lecturers" slide, create slides by importing the outline from Lecturers document in the Documents folder.
+On slide 1, configure the audio clip to fade in for 2 seconds when the user clicks the audio icon and then to continue playing when the presenter advances to another slide. Configure the settings so the audio clip plays only one time but continues across multiple slides.
+On the "HOCICT Education" slide, for the text "Facebook: @hocict.edu.vn", change the text fill color to Blue-Gray, Accent 1.
+On the Slide Master, duplicate the layout of "Blank" slide. Name the new slide layout "Pictures with Text". Insert an Image Placeholder on the left and Text Placholder on the right. The exact size and position of the placeholders does not matter. Do not create slide based on new slide layout.
+On the “Overview” slide, apply the Bevel Perspective Left, White picture style and the Paint Brush artistic effect to the picture
+Apply the Rotate slide transition with the From Left effect option to all slides.
+#Project 07
+On slide 2, animate the powerpoint image to fly in from the top-left corner of the slide. Set the animation duration to 2 seconds.
+On slide 3, format the bulleted list so that it appears in two columns.
+On slide 1, in the left-content placeholder, insert a Vertical Curved List SmartArt graphic. Label the first shape "For Windows" and the second shape "For MacOS". Delete unused shapes.
+On slide 8, add the Swivel entrance animation to the heart shape.
+In the file properties, add "Office 2019" as a subject.
+On slide 4, add row to the bottom of the table. Enter the”For MacOS” in the left-most column and “678 USD” to the middle-column.
+On the "Microsoft PowerPoint 2019 (MO-300)" slide, convert the bulleted list to a Segmented Cycle SmartArt graphic.
+For all slides, set the transition variation to Wedge.
+#Project 08
+On the "Candidates" layout of the Slide Master, change the first-level bullet to use the CheckBox image from the Pictures folder.
+At the end of the presentation, insert the slides of the Achievements presentation contained in the Documents folder. After inserting the slides , slide 12 should be the one titled "Achievements" and slide 13 the one titled "Final Report".
+On slide 7, reverse the order of the shapes so that the orange shape is in front, the green shape in the middle and the blue shape is in back.
+On slide 3, set the bulleted list animation effect direction to From Left and change the duration to 1.5 seconds.
+On the "Our Team" slide, in the content placeholder on the right, create a 3-D Clustered Column chart that displays only the table content.
+Set up the slide show to require the viewer to manually advance the slides.
+On slide 3, apply the Jump and Turn animation effect to 3D model.
+On slide 7, set up a Down path animation for the Rectangle: Folded Corner shape.
+#Project 09
+On slide 3, use the 3D Models feature to insert the Coffee Cup model from the 3D Objects folder. Resize the model by setting a height to 10.16 cm (4 inches). Place the template to the left of the bulleted list.
+In the file properties, set the title to "Our Team"
+On slide 4, convert the bulleted list to a Simple Block List SmartArt graphic.
+On slide 2, insert a slide footer that display the slide number and "www.hocict.edu.vn". Apply the footer to all slides except title slide.
+On the "Instructors" slide, add the description "Ly Tran Thai Hoc" as alt text to the image.
+Create a section named "Coaching" that only has slide 6 and 7.
+On slide 3, change the view of the 3D model to Left.
+Apply the Wipe transition with the From Left effect option to all slides.
+#Project 10
+Configure the slide show so that slide scrolling is done manually by the presenter.
+In the file properties, add the text "Travel" as Category.
+Following the "Activities not included in the price" slide, create slides by importing the Destinations document in the Documents folder.
+On slide 1, insert a hyperlink to "http://www.hocict.edu.vn" into the "HOCICT Travel" text.
+On the "Activities not included in the price" slide, insert a row at the end of the table. In the row, enter "Sports Events" in the "Event" column and "175 $"  in the "Price" column.
+On the "Price Comparison" slide, in the Content Placeholder, create a 3-D Clustered Column chart that displays only the table contents. You can copy and paste the data from the table or enter it manually into the chart spreadsheet.
+On slide 4, group the images
+For all slides, set a transition duration of 3 seconds.
+#Project 11
+Create a section named "Microsoft Office 2019" that includes only slides 2 through 7.
+On slide 6, add the alt text description "MOS Instructors" to the upper-right image.
+On slide 2, in the content placeholder, insert a Vertical Box List SmartArt graphic contains the text "Knowledge", "Skills", and "Attitude" from top to bottom.
+On slide 5, use the 3D Models feature to insert the Laptop model from the 3D Objects folder. Resize the model to height of 2" (5.08 cm) and a width of 1.78" (4.52 cm). Place the model in the empty rectangle on the left.
+On slide 4, set the bulleted list animation effect direction to From Left and change the duration to 1.5 seconds.
+For all slides, set the transition duration to 2 seconds.
+On the "PowerPoint 2019" slide, convert the bulleted list to a Segmented Cycle SmartArt graphic.
+Hide slide 3
+#Project 12
+Configure the printing options to print five copies of the Notes Pages for the presentation in Portrait Orientation. All copies of page 1 should print before any copies of page 2.
+Insert a slide footer that displays the slide number and the word "Iris Residence". Apply the footer to all slides except the title slide.
+On slide 2, align the top edges of the images. Do not move the images horizontally.
+On slide 5, modify the chart to display a data table with legend keys.
+On slide 6, insert the Iris Residence from the Videos folders. Place the video to the right of the image. The exact size and position of the video do not matter.
+On slide 4, configure a heart motion path animation for the star shape.
+On slide 4, group the three images.
+Apply the Rotate slide transition with the From Left effect option to all slides.
