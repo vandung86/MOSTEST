@@ -1,0 +1,108 @@
+#Project 1
+Configure the "Exam Bookings" worksheet so that only cells A7:I46 will be printed.
+On the "Weekly Summary" worksheet, filter the table data to display only the exams with a "Certiport ID" of "90039921"
+On the "Suppliers" worksheet, in the "Discount" column, use a function to display "Yes" if the "Quantity in Stock" is greater than 6000. Otherwise, display "No"
+On the "Suppliers" worksheet, perform a multi-level sort. Sort the table by "Toy Category" (A to Z) and then by "Supplier Name" (A to Z).
+On the "Customers" worksheet, in the "Email Address" column, use a function to construct email addresses for each person using the first name and "@hocict.edu.vn"
+On the "Exam Bookings" worksheet, configure the table style options to automatically shade every other table row.
+On the "Exam Bookings" worksheet, move the chart to a new chart sheet named "Fee Chart"
+Remove all conditional formatting rules from the "Suppliers" worksheet.
+#Project 2
+On the "Instructors" worksheet, beginning at cell A1, import the data from the Instructors text file in the Documents folder. Use the first row of the data source as headers.
+On the "Bank Deposit" worksheet, adjust the width of columns B:G exactly 12.
+On the "Enrollment" worksheet, in cells E3:E6, insert Column sparklines to compare the last, current, and the next term values for each test site.
+On the "Enrollment" worksheet, freeze rows 1 and 2 so the title and column heading are always visible when scrolling.
+On the "Figure" worksheet, in cell L10, enter a formula that sums the values in the ranges "Total1", "Total2", and "Total3". Use range names in the formula instead of cell references or values.
+On the "Figure" worksheet, add the alt text description "Yearly Revenue" to the chart.
+On the "Car Inventory" worksheet, in the "Price" table column, use conditional formatting to apply the 3 Traffic Lights (Unrimmed) format to the values.
+On the "Enrollment" worksheet, apply the White, Table Style Medium 1 style to the table.
+#Project 3
+Navigate to the range named "Convertible" and delete the contents of the selected cells.
+On the "Suppliers" worksheet, in cells F2:G11, format the cells to display the numbers to two decimal places.
+On the "Informatics Exam" worksheet, remove the table row that contains "IELTS" data. Do not change any content outside the table.
+On the "GMetrix Account" worksheet, in the "Monthly Average" column, use a function to calculate the average monthly quantity for each exams from January through April.
+On the "Gmetrix Account" worksheet, modify the chart to display "Account" as the Primary Vertical Axis Title.
+On the "Used Car Sales" worksheet, assign left alignment to the text in cell A2
+On the "Used Car Sales" worksheet, extend the formula in cell I6 to the end of the table column.
+On the "Suppliers" worksheet, use a function to display the highest number from the "Stock Value" column.
+#Project 4
+On the "Demographics" worksheet, for the "Toys Category" chart, swap the data over the axis.
+Copy the formatting of the title and subtitle of the "Used Car Sales" worksheet and apply it to the title and subtitle of the "New Car Sales" worksheet
+On the "Informatics Exam" chart sheet, remove the legend and display only the values as data labels above each column.
+On the "New Car Sales" worksheet, convert the table to a cell range. Keep the formatting.
+On the "Report" worksheet, create a Clustered Column chart that shows the "Quantity" for all months, with the month as the horizontal axis labels. Place the chart below the table. The exact size and position of the chart do not matter.
+On the "Demographics" worksheet, in the "TCC" column, use a function to display the first 2 characters of the "Category" from column B.
+In cell B10 on the "Report" worksheet, insert a function that joins the customer "Lastname" to the customer "Firstname" separated by a comma and space. (Example: Akkers, Leah)
+Insert page numbering in the center of the footer on the "Demographics" worksheet using the format Page 1 of ?
+#Project 5
+Add a link into the QR code image in the worksheet "Figure" to "https://www.youtube.com/@HOCICTOfficialChannel"
+On the "Informatics" worksheet, name the table "Informatics"
+On the "Figure" worksheet, for the "Revenue over the year" chart, display a data table without legend keys.
+On the "Sales by Exam" worksheet, remove the table functionality from the table. Retain the font and cell formatting.
+On the "Informatics" worksheet, in the "Total" column, enter a formula that multiples the value in the "Quantity" column by "Fee" named range. Use the range name in the formula instead of a cell reference or value.
+On the "Informatics" worksheet, configure the table style options to automatically shade every other table row.
+On the "Figure" worksheet, merge across cells K3:L3. Do the same for the ranges K11:L11, K19:L19.
+On the "Figure" worksheet, apply the Heading 4 to K3, K11, K19 and Explanatory Text to K4:L4, K12:L12, K20:L20
+#Project 6
+On the "Computing Fundamentals" worksheet, apply the Colorful Palette 2 color to the chart.
+On the "Key Applications" worksheet, in cell F32, use a function to determine how many students do not have an "PowerPoint" result
+On the "Key Applications" worksheet, using the Format Painter feature to copy formatting from cell A32 to the cells A35:A37
+Add the word "Version 20230328" to the Title property of the document.
+On the "Living Online" worksheet, format the data range A1:G30 as a table that has headers. Apply the Orange, Table Style Medium 7 (Table Style Medium 7) format.
+On the "Computing Fundamentals" worksheet, modify the column width of the columns B through J to 15.22
+On the "Computing Fundamentals" worksheet, configure C1:H1 so that entries wider than the column wrap to multiple lines.
+Move the chart on the "Living Online" worksheet as chart sheet named "Living Online Chart"
+#Project 7
+On the "Sales by Exam" worksheet, display the formulas instead of the values.
+On the "Invoice" worksheet, move the cells E8:F27 up to correct the alignment by deleting cells E7:F7
+On the "Subcribe Results" worksheet, apply Style 7 and the Monochromatic Palette 6 color to the chart.
+Remove hidden properties and personal information from the workbook. Do not remove any other content.
+On the "Next Period" worksheet, create a Clustered Column chart that displays the "Course" names and "Average cost per student" data. Place the chart to the right of the table. The exact size and position of the chart does not matter.
+On the "Lecturers" worksheet, convert the range A3:B7 to table with headers. Apply the Green, Table Style Light 14 style.
+On the "Exam History" worksheet, in the "Total Notice" column, use a function to display "Low" if the "Total Level%" is less than 15%. Otherwise, leave the "Total Notice" blank.
+On the "Subcribe Results" worksheet, name the range A3:B7, "Registration"
+#Project 8
+On the "Forecast" worksheet, in the "Quarter 2" column, enter a formula that multiplies the value in the "Quarter 1" column by the "Q2_Increase" named range. Use the range name in the formula instead of a cell reference or value.
+On the "Suppliers" worksheet, remove the table row that contains "Wooden Toys" data. Do not change any content outside the table.
+On the "First half of the year" worksheet, change the horizontal alignment of the "Test site" names to Left (Indent). Set the indent to 1.
+On the "First half of the year" worksheet, in cells J4:J11, insert Win/Loss sparklines to compare the January to June values.
+On the "First half of the year" worksheet, add a Total Row to the table. Configure the Total Row to display the number of retake exam for each month and for 6-month total.
+On the "First half of the year" worksheet, in the "Inactive" column, use a function to count the number of months with no retake exam, by Test site.
+On the "Top Toys Category" wroksheet, perform a multi-level sort. Sort the table data by "Toys" (A to Z) and then by "Total Sales" (Largest to Smallest)
+On the "Last half of the year" worksheet, change the elements displayed on the chart by changing the chart layout to Layout 3
+#Project 9
+On the "Invoice" worksheet, move the cells E5:F16 up to correct the alignment by deleting cells E1:F4
+On the "Suppliers Information" worksheet, in the "Email Address" column, use a function to construct email addresses for each supplier using the supplier ID and "@hocict.edu.vn"
+On the "Suppliers Infofmation" worksheet, create a Clustered Column chart that shows the "Total Value" for all the suppliers, with the suppliers name as the horizontal axis labels. Place the chart below the table. The exact size and position of the chart do not matter.
+On the "Invoice" worksheet, in cells G2:G11, use conditional formatting to apply the Yellow Fill with Dark Yellow Text format to cells that contain values greater than "$ 500,000"
+On the "Summary" chart sheet, insert a chart title above the chart, at the top of the plot area. Display the values as data labels to the right of each data bar.
+On the "Invoice" worksheet, configure A1:G1 to automatically wrap the text.
+On the "Invoice" worksheet, in the cell J2, use a function to display the highest stock value amount from the "Stock Value" column.
+On the "Suppliers Information" worksheet, in the "Supplier ID" column, modify the formulas to display the letters in uppercase.
+#Project 10
+On the "Survey Result" worksheet, apply the Title style to cell A1.
+On the "Sales by month" chart sheet, swap the data over the axis.
+On the "Q4 Sales" worksheet, in the Tax column, enter a formula that multiples the value in the "Total" column by cell M2.
+On the "Q3 Sales" worksheet, move the pie chart to its own chart sheet named, "Q3 Total Sales"
+On the "Q3 Sales" worksheet, expand the column chart to include the "September" data.
+On the "Q2 Sales" worksheet, filter the data to display only the orders of the MOS Exam from test site "Nguyen Tat Thanh University"
+On the "Q1 Sales" worksheet, in the Bonus column, use a function to display "500" if the "Total" is greater than 10,000. Otherwise, display "100".
+On the "Lecturers" worksheet, from the existing text in cell A5, insert a hyperlink to the "https://youtube.com/c/hocictofficialchannel" with a screentip that displays "HOCICT's YouTube Channel"
+#Project 11
+On the "Customers" worksheet, in the "Display Name" column, enter a formula to display the customer's names in the Last Name, First Name format. For example: Dulce, Davidson
+On the "Gender" worksheet, apply the Colorful Palette 2 color to the chart
+On the "Customers" worksheet, filter the table data to hide all rows with "Brazil" in the "Country or Region" column.
+On the "Installments" worksheet, apply the Currency number format to cells E19:E80. Display the numbers with only two decimal places.
+On the "Customers" worksheet, copy cells A1:L51. Select cell A1 of the "Archive" worksheet, and paste the copied cells, retaining the Column widths from the source worksheet.
+On the "Bank Deposits" worksheet, configure the table style options to automaticaly shade every other table row.
+On the "Customers" worksheet, add the alt text description "Quantity by Age chart" to the chart.
+On the "Bank Deposits" worksheet, adjust the page breaks so that the worksheet print on two pages. Cells A1:162 should print on the first page, and the entire rates table should print on the second page.
+#Project 12
+On the "Enrollment" worksheet, add only column F to the "Monthly_Statistical_Enrollment" table, so that "Monthly Average" becomes the header of the new table column.
+Navigate the range named "InformaticsQ1" and change the value in the first cell of the range to "$678,000"
+On the "GMetrix Account" worksheet, configure the table style option to automatically emphasize the first column of the table.
+On the "Enrollment" worksheet, set the horizontal text alignment of cells A1:F1 to Center Across Selection.
+On the "GMetrix Account" worksheet, update the chart to include the "August" data.
+On the "International Exam" worksheet, configure A12:E12 so that entries wider than the column wrap to multiple lines. 
+On the "Enrollment" worksheet, in cell B12, enter a formula that adds all the cells in the named range "ThirdQuarter". Use the range name in the formula instead of cell references or values.
+On the "Informatics Exam" worksheet, modify the "Q1 Sales" chart to display the series values as data labels in the center of each column.
