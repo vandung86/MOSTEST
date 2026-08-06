@@ -32,8 +32,8 @@
         {
           "filename": "Office.mp4",
           "destination": "Videos",
-          "download_url": "",
-          "sha256": "",
+          "download_url": "https://github.com/vandung86/MOSTEST/releases/download/office-assets-ppt-2019-v1/Office.mp4",
+          "sha256": "A88D691627071546167E741BDBEB6EAA58B25E1BA04B61C5422DA1C9555CC16D",
           "size": 0
         }
       ]
