@@ -1,0 +1,103 @@
+{
+  "schema_version": "1.0",
+  "application": "PowerPoint",
+  "office_version": "2019",
+  "projects": [
+    {
+      "project_id": 1,
+      "version": "1.0",
+      "filename": "PowerPoint_2019_Project.01.pptx",
+      "download_url": "https://github.com/vandung86/MOSTEST/releases/download/office-assets-ppt-2019-v1/PowerPoint_2019_Project_01.pptx",
+      "sha256": "8B7EC2FB726767FF15517244DEEA1109E36134C0EAE12EC05575A51C0C8078DA",
+      "size": 0
+    },
+    {
+      "project_id": 2,
+      "version": "1.0",
+      "filename": "PowerPoint_2019_Project.02.pptx",
+      "download_url": "https://github.com/vandung86/MOSTEST/releases/download/office-assets-ppt-2019-v1/PowerPoint_2019_Project_02.pptx",
+      "sha256": "920154225288E685F5CBED5350B1F92A83DE83AA6679AB2E9C932224AA9322BE",
+      "size": 0
+    },
+    {
+      "project_id": 3,
+      "version": "1.0",
+      "filename": "PowerPoint_2019_Project.03.pptx",
+      "download_url": "https://github.com/vandung86/MOSTEST/releases/download/office-assets-ppt-2019-v1/PowerPoint_2019_Project_03.pptx",
+      "sha256": "A4647E417EC940BE8EA58C4C46E8E8568D25CCDE9223534C61F1653B2A34AB12",
+      "size": 0
+    },
+    {
+      "project_id": 4,
+      "version": "1.0",
+      "filename": "PowerPoint_2019_Project.04.pptx",
+      "download_url": "https://github.com/vandung86/MOSTEST/releases/download/office-assets-ppt-2019-v1/PowerPoint_2019_Project_04.pptx",
+      "sha256": "F40DA0F203856E7983F153EFEDA615F7B5F048BC77C3DA82E2194C83EA5A5323",
+      "size": 0
+    },
+    {
+      "project_id": 5,
+      "version": "1.0",
+      "filename": "PowerPoint_2019_Project.05.pptx",
+      "download_url": "https://github.com/vandung86/MOSTEST/releases/download/office-assets-ppt-2019-v1/PowerPoint_2019_Project_05.pptx",
+      "sha256": "764324F215E4075E76B840BD29103B1DD77C8D1C3270F925A9374679584A2E1E",
+      "size": 0
+    },
+    {
+      "project_id": 6,
+      "version": "1.0",
+      "filename": "PowerPoint_2019_Project.06.pptx",
+      "download_url": "https://github.com/vandung86/MOSTEST/releases/download/office-assets-ppt-2019-v1/PowerPoint_2019_Project_06.pptx",
+      "sha256": "B49AAC3545DCE9E314081DC02A5E7066DD15444540D8F586D105E5E9849300D3",
+      "size": 0
+    },
+    {
+      "project_id": 7,
+      "version": "1.0",
+      "filename": "PowerPoint_2019_Project.07.pptx",
+      "download_url": "https://github.com/vandung86/MOSTEST/releases/download/office-assets-ppt-2019-v1/PowerPoint_2019_Project_07.pptx",
+      "sha256": "4D7AFC3F7E856EA62AD8C4447352955D14D08E4E2F181C565E6A7D548DA00AEA",
+      "size": 0
+    },
+    {
+      "project_id": 8,
+      "version": "1.0",
+      "filename": "PowerPoint_2019_Project.08.pptx",
+      "download_url": "https://github.com/vandung86/MOSTEST/releases/download/office-assets-ppt-2019-v1/PowerPoint_2019_Project_08.pptx",
+      "sha256": "9A219742130F68A28C79E98C3480DA5B4D3AAF8127742DDB47E0C90980BFD95D",
+      "size": 0
+    },
+    {
+      "project_id": 9,
+      "version": "1.0",
+      "filename": "PowerPoint_2019_Project.09.pptx",
+      "download_url": "https://github.com/vandung86/MOSTEST/releases/download/office-assets-ppt-2019-v1/PowerPoint_2019_Project_09.pptx",
+      "sha256": "0A1F1124336690E0D501E9038D16878C4A706274CD052566AF383B12D3F334DA",
+      "size": 0
+    },
+    {
+      "project_id": 10,
+      "version": "1.0",
+      "filename": "PowerPoint_2019_Project.10.pptx",
+      "download_url": "https://github.com/vandung86/MOSTEST/releases/download/office-assets-ppt-2019-v1/PowerPoint_2019_Project_10.pptx",
+      "sha256": "681CC33349B65F2BB74929C0A682063247E9F41438B3A05D1D3A7CBC8913AEC9",
+      "size": 0
+    },
+    {
+      "project_id": 11,
+      "version": "1.0",
+      "filename": "PowerPoint_2019_Project.11.pptx",
+      "download_url": "https://github.com/vandung86/MOSTEST/releases/download/office-assets-ppt-2019-v1/PowerPoint_2019_Project_11.pptx",
+      "sha256": "76529151B5C028D845C68756DFD975C9463C1EA4E2BC8BB6D9ECF50F81CF5DB9",
+      "size": 0
+    },
+    {
+      "project_id": 12,
+      "version": "1.0",
+      "filename": "PowerPoint_2019_Project.12.pptx",
+      "download_url": "https://github.com/vandung86/MOSTEST/releases/download/office-assets-ppt-2019-v1/PowerPoint_2019_Project_12.pptx",
+      "sha256": "D8880C0E29E7A5D5A4B60D8065D70D486C4338AC7388D7FCB1BC7C44F2517E92",
+      "size": 0
+    }
+  ]
+}
