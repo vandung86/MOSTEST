@@ -24,7 +24,7 @@ On the "GMetrix Account" worksheet, in the "Monthly Average" column, use a funct
 On the "Gmetrix Account" worksheet, modify the chart to display "Account" as the Primary Vertical Axis Title.
 On the "Used Car Sales" worksheet, assign left alignment to the text in cell A2
 On the "Used Car Sales" worksheet, extend the formula in cell I6 to the end of the table column.
-On the "Suppliers" worksheet, use a function to display the highest number from the "Stock Value" column.
+On the "Suppliers" worksheet, in cell L2 use a function to display the highest number from the "Stock Value" column.
 #Project 04
 On the "Demographics" worksheet, for the "Toys Category" chart, swap the data over the axis.
 Copy the formatting of the title and subtitle of the "Used Car Sales" worksheet and apply it to the title and subtitle of the "New Car Sales" worksheet
