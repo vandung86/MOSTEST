@@ -25,7 +25,7 @@ On slide 2, insert a Section Zoom link to "Section 2: MOSWC-VN", "Section 3: MOS
 On slide 12, using the tools on the Draw tab, highlight the text "???" with the highlighter Yellow, 6mm
 On slide 14, change the chart type to Clustered Bar chart.
 For all slides, set the transition variation to Strips Out.
-#Project 04
+#Project 04111111
 At the end of the presentation, insert the slides of the Logistics Services presentation slides contained in the Documents folder. After inserting the slides, slide 3 should be the one titled "Warehousing", slide 4 titled "Custom Brokerage", slide 5 titled "Barge & Truck Transportation" and the last slide is titled "International Freight Forwarding".
 On slide 3, use the 3D Models feature to insert the Wooden Box model from the 3D Objects folder. Resize the model to a height of 1.66" (4.2 cm) and a width of 2.8" (7.1cm). Place the model in the empty rectangle on the left.
 Insert a slide footer that displays the slide number and the word "LAIP-Draft". Apply the footer to all slides except the title slide.
