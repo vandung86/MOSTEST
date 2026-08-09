@@ -135,7 +135,15 @@
       "download_url": "https://github.com/vandung86/MOSTEST/releases/download/office-assets-ppt-2019-v1/PowerPoint_2019_Project.09.pptx",
       "sha256": "0A1F1124336690E0D501E9038D16878C4A706274CD052566AF383B12D3F334DA",
       "size": 0,
-      "resources": []
+      "resources": [
+        {
+          "filename": "Coffee.Cup.obj",
+          "destination": "3DObjects",
+          "download_url": "https://github.com/vandung86/MOSTEST/releases/download/office-assets-ppt-2019-v1/Coffee.Cup.obj",
+          "sha256": "a88d691627071546167e741bdbeb6eaa58b25e1ba04b61c5422da1c9555cc16d",
+          "size": 0
+        }
+      ]
     },
     {
       "project_id": 10,
