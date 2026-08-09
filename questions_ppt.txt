@@ -58,7 +58,7 @@ On slide 3, format the bulleted list so that it appears in two columns.
 On slide 1, in the left-content placeholder, insert a Vertical Curved List SmartArt graphic. Label the first shape "For Windows" and the second shape "For MacOS". Delete unused shapes.
 On slide 8, add the Swivel entrance animation to the heart shape.
 In the file properties, add "Office 2019" as a subject.
-On slide 4, add row to the bottom of the table. Enter the”For MacOS” in the left-most column and “678 USD” to the middle-column.
+On slide 4, add row to the bottom of the table. Enter the "For MacOS" in the left-most column and “678 USD” to the middle-column.
 On the "Microsoft PowerPoint 2019 (MO-300)" slide, convert the bulleted list to a Segmented Cycle SmartArt graphic.
 For all slides, set the transition variation to Wedge.
 #Project 08
