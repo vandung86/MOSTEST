@@ -1,0 +1,124 @@
+{
+  "schema_version": "1.0",
+  "application": "Excel",
+  "office_version": "2019",
+  "release_tag": "office-assets-excel-2019-v1",
+  "projects": [
+    {
+      "project_id": 1,
+      "version": "1.0",
+      "filename": "Excel_2019_Project.01.xlsx",
+      "download_url": "https://github.com/vandung86/MOSTEST/releases/download/office-assets-excel-2019-v1/Excel_2019_Project.01.xlsx",
+      "sha256": "",
+      "size": 0,
+      "resources": []
+    },
+    {
+      "project_id": 2,
+      "version": "1.0",
+      "filename": "Excel_2019_Project.02.xlsx",
+      "download_url": "https://github.com/vandung86/MOSTEST/releases/download/office-assets-excel-2019-v1/Excel_2019_Project.02.xlsx",
+      "sha256": "",
+      "size": 0,
+      "resources": [
+        {
+          "filename": "Instructors.txt",
+          "destination": "Documents",
+          "download_url": "https://github.com/vandung86/MOSTEST/releases/download/office-assets-excel-2019-v1/Instructors.txt",
+          "sha256": "f70727e8e916f30b2e988948e12bbbc233d1c356e4075565535a2c82a22c253c",
+          "size": 0
+        },
+      ]
+    },
+    {
+      "project_id": 3,
+      "version": "1.0",
+      "filename": "Excel_2019_Project.03.xlsx",
+      "download_url": "https://github.com/vandung86/MOSTEST/releases/download/office-assets-excel-2019-v1/Excel_2019_Project.03.xlsx",
+      "sha256": "",
+      "size": 0,
+      "resources": []
+    },
+    {
+      "project_id": 4,
+      "version": "1.0",
+      "filename": "Excel_2019_Project.04.xlsx",
+      "download_url": "https://github.com/vandung86/MOSTEST/releases/download/office-assets-excel-2019-v1/Excel_2019_Project.04.xlsx",
+      "sha256": "",
+      "size": 0,
+      "resources": []
+    },
+    {
+      "project_id": 5,
+      "version": "1.0",
+      "filename": "Excel_2019_Project.05.xlsx",
+      "download_url": "https://github.com/vandung86/MOSTEST/releases/download/office-assets-excel-2019-v1/Excel_2019_Project.05.xlsx",
+      "sha256": "",
+      "size": 0,
+      "resources": []
+    },
+    {
+      "project_id": 6,
+      "version": "1.0",
+      "filename": "Excel_2019_Project.06.xlsx",
+      "download_url": "https://github.com/vandung86/MOSTEST/releases/download/office-assets-excel-2019-v1/Excel_2019_Project.06.xlsx",
+      "sha256": "",
+      "size": 0,
+      "resources": []
+    },
+    {
+      "project_id": 7,
+      "version": "1.0",
+      "filename": "Excel_2019_Project.07.xlsx",
+      "download_url": "https://github.com/vandung86/MOSTEST/releases/download/office-assets-excel-2019-v1/Excel_2019_Project.07.xlsx",
+      "sha256": "",
+      "size": 0,
+      "resources": []
+    },
+    {
+      "project_id": 8,
+      "version": "1.0",
+      "filename": "Excel_2019_Project.08.xlsx",
+      "download_url": "https://github.com/vandung86/MOSTEST/releases/download/office-assets-excel-2019-v1/Excel_2019_Project.08.xlsx",
+      "sha256": "",
+      "size": 0,
+      "resources": []
+    },
+    {
+      "project_id": 9,
+      "version": "1.0",
+      "filename": "Excel_2019_Project.09.xlsx",
+      "download_url": "https://github.com/vandung86/MOSTEST/releases/download/office-assets-excel-2019-v1/Excel_2019_Project.09.xlsx",
+      "sha256": "",
+      "size": 0,
+      "resources": []
+    },
+    {
+      "project_id": 10,
+      "version": "1.0",
+      "filename": "Excel_2019_Project.10.xlsx",
+      "download_url": "https://github.com/vandung86/MOSTEST/releases/download/office-assets-excel-2019-v1/Excel_2019_Project.10.xlsx",
+      "sha256": "",
+      "size": 0,
+      "resources": []
+    },
+    {
+      "project_id": 11,
+      "version": "1.0",
+      "filename": "Excel_2019_Project.11.xlsx",
+      "download_url": "https://github.com/vandung86/MOSTEST/releases/download/office-assets-excel-2019-v1/Excel_2019_Project.11.xlsx",
+      "sha256": "",
+      "size": 0,
+      "resources": []
+    },
+    {
+      "project_id": 12,
+      "version": "1.0",
+      "filename": "Excel_2019_Project.12.xlsx",
+      "download_url": "https://github.com/vandung86/MOSTEST/releases/download/office-assets-excel-2019-v1/Excel_2019_Project.12.xlsx",
+      "sha256": "",
+      "size": 0,
+      "resources": []
+    }
+  ]
+}

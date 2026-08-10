@@ -1,0 +1,140 @@
+{
+  "schema_version": "1.0",
+  "application": "Word",
+  "office_version": "2019",
+  "release_tag": "office-assets-word-2019-v1",
+  "projects": [
+    {
+      "project_id": 1,
+      "version": "1.0",
+      "filename": "Word_2019_Project.01.docx",
+      "download_url": "https://github.com/vandung86/MOSTEST/releases/download/office-assets-word-2019-v1/Word_2019_Project.01.docx",
+      "sha256": "965aceda07d2a10ecfc868934589eadc06b56e5bf81778f4f9228453d440b474",
+      "size": 0,
+      "resources": []
+    },
+    {
+      "project_id": 2,
+      "version": "1.0",
+      "filename": "Word_2019_Project.02.docx",
+      "download_url": "https://github.com/vandung86/MOSTEST/releases/download/office-assets-word-2019-v1/Word_2019_Project.02.docx",
+      "sha256": "1e8306fed21bebac2c1a3b2aba20342c1d58dc7f8a70ed1526886fc28621dcd9",
+      "size": 0,
+      "resources": []
+    },
+    {
+      "project_id": 3,
+      "version": "1.0",
+      "filename": "Word_2019_Project.03.docx",
+      "download_url": "https://github.com/vandung86/MOSTEST/releases/download/office-assets-word-2019-v1/Word_2019_Project.03.docx",
+      "sha256": "8491694ae5872faa5d82d045d5d173db3656c2652be4c0e6cb6cc692b032ae05",
+      "size": 0,
+      "resources": []
+    },
+    {
+      "project_id": 4,
+      "version": "1.0",
+      "filename": "Word_2019_Project.04.docx",
+      "download_url": "https://github.com/vandung86/MOSTEST/releases/download/office-assets-word-2019-v1/Word_2019_Project.04.docx",
+      "sha256": "696015203b45bad814b60f45047a7f51b0b4b25580246e8e26f2ab32bc5be95e",
+      "size": 0,
+      "resources": [
+        {
+          "filename": "Glasses.obj",
+          "destination": "3DObjects",
+          "download_url": "https://github.com/vandung86/MOSTEST/releases/download/office-assets-word-2019-v1/Glasses.obj",
+          "sha256": "6fae672e7a49ab67a0f091f94fefe8780eb5049b0fe8ff7c7afd2a0804e919d8",
+          "size": 0
+        }
+      ]
+    },
+    {
+      "project_id": 5,
+      "version": "1.0",
+      "filename": "Word_2019_Project.05.docx",
+      "download_url": "https://github.com/vandung86/MOSTEST/releases/download/office-assets-word-2019-v1/Word_2019_Project.05.docx",
+      "sha256": "3acbfd8450ba4ef6a2f619377e2f115437009ebb818d594bf3358ddb9aa32d0b",
+      "size": 0,
+      "resources": []
+    },
+    {
+      "project_id": 6,
+      "version": "1.0",
+      "filename": "Word_2019_Project.06.docx",
+      "download_url": "https://github.com/vandung86/MOSTEST/releases/download/office-assets-word-2019-v1/Word_2019_Project.06.docx",
+      "sha256": "1d4425a5abda1806c63b72334263fc7614dddd474801f36dafc081ed8ff52b3d",
+      "size": 0,
+      "resources": []
+    },
+    {
+      "project_id": 7,
+      "version": "1.0",
+      "filename": "Word_2019_Project.07.docx",
+      "download_url": "https://github.com/vandung86/MOSTEST/releases/download/office-assets-word-2019-v1/Word_2019_Project.07.docx",
+      "sha256": "80b7a863a6307489d16763a396d55054c358ee298ce5178aaf9493912dfb412d",
+      "size": 0,
+      "resources": []
+    },
+    {
+      "project_id": 8,
+      "version": "1.0",
+      "filename": "Word_2019_Project.08.docx",
+      "download_url": "https://github.com/vandung86/MOSTEST/releases/download/office-assets-word-2019-v1/Word_2019_Project.08.docx",
+      "sha256": "e1d8c71849c49b16243376fdfefc0576f69283d4ae38f7705e19dffb2f623776",
+      "size": 0,
+      "resources": []
+    },
+    {
+      "project_id": 9,
+      "version": "1.0",
+      "filename": "Word_2019_Project.09.docx",
+      "download_url": "https://github.com/vandung86/MOSTEST/releases/download/office-assets-word-2019-v1/Word_2019_Project.09.docx",
+      "sha256": "1de4b3b6e846ccf3884f49f8e27c72492e235de22a07ee7a22a94c6742688c5c",
+      "size": 0,
+      "resources": []
+    },
+    {
+      "project_id": 10,
+      "version": "1.0",
+      "filename": "Word_2019_Project.10.docx",
+      "download_url": "https://github.com/vandung86/MOSTEST/releases/download/office-assets-word-2019-v1/Word_2019_Project.10.docx",
+      "sha256": "e1b54c6038ac5c11d61b11af6a2cc7edde49c53fd536bce8aaf1175673228955",
+      "size": 0,
+      "resources": [
+         {
+          "filename": "Certificate.jpg",
+          "destination": "Pictures",
+          "download_url": "https://github.com/vandung86/MOSTEST/releases/download/office-assets-word-2019-v1/Certificate.jpg",
+          "sha256": "dd45ba4f9b80f766ab178047ad099af7d9517697479c082a7ebe31665e93daa4",
+          "size": 0
+        }
+      ]
+    },
+    {
+      "project_id": 11,
+      "version": "1.0",
+      "filename": "Word_2019_Project.11.docx",
+      "download_url": "https://github.com/vandung86/MOSTEST/releases/download/office-assets-word-2019-v1/Word_2019_Project.11.docx",
+      "sha256": "c5ff1efc81356cb25999c1b7f88a5f3b6a93d6fcbffbf2fbdbc782632f9c9408",
+      "size": 0,
+      "resources": []
+    },
+    {
+      "project_id": 12,
+      "version": "1.0",
+      "filename": "Word_2019_Project.12.docx",
+      "download_url": "https://github.com/vandung86/MOSTEST/releases/download/office-assets-word-2019-v1/Word_2019_Project.12.docx",
+      "sha256": "3172982ba9db10b711c3fd7a607f5519e995988902bb09a5f408a7c75ced539b",
+      "size": 0,
+      "resources": [
+        {
+          "filename": "Map.png",
+          "destination": "Pictures",
+          "download_url": "https://github.com/vandung86/MOSTEST/releases/download/office-assets-word-2019-v1/Map.png",
+          "sha256": "4087445497db73ca716930c73d163f2c43292ca7ab1609139d35c710b628f15c",
+          "size": 0
+        }
+      ]
+    }
+  ]
+}
