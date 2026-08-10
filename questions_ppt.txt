@@ -102,7 +102,7 @@ Configure the printing options to print five copies of the Notes Pages for the p
 Insert a slide footer that displays the slide number and the word "Iris Residence". Apply the footer to all slides except the title slide.
 On slide 2, align the top edges of the images. Do not move the images horizontally.
 On slide 5, modify the chart to display a data table with legend keys.
-On slide 6, insert the Iris Residence from the Videos folders. Place the video to the right of the image. The exact size and position of the video do not matter.
+On slide 6, insert the "Iris Residence" from the Videos folders. Place the video to the right of the image. The exact size and position of the video do not matter.
 On slide 4, configure a heart motion path animation for the star shape.
 On slide 4, group the three images.
 Apply the Rotate slide transition with the From Left effect option to all slides.
