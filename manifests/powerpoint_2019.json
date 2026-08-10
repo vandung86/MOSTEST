@@ -169,7 +169,15 @@
       "download_url": "https://github.com/vandung86/MOSTEST/releases/download/office-assets-ppt-2019-v1/PowerPoint_2019_Project.11.pptx",
       "sha256": "76529151B5C028D845C68756DFD975C9463C1EA4E2BC8BB6D9ECF50F81CF5DB9",
       "size": 0,
-      "resources": []
+      "resources": [
+        {
+          "filename": "Laptop.obj",
+          "destination": "3DObjects",
+          "download_url": "https://github.com/vandung86/MOSTEST/releases/download/office-assets-ppt-2019-v1/Laptop.obj",
+          "sha256": "61895c3313452a4e7f8bc51dccc6e34a74bff6d6faebd3311c4cd71479267bc9",
+          "size": 
+        }
+      ]
     },
     {
       "project_id": 12,
