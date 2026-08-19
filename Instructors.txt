@@ -1,5 +1,0 @@
-First Name	Last Name	Credly Profile
-Hoc	Ly	https://www.credly.com/users/ly-tran-thai-hoc/badges
-Dung	Dang	https://www.credly.com/users/dang-thi-thuy-dung/badges
-Tuan	Le	https://www.credly.com/users/le-anh-tuan/badges
-Dung	Nguyen	https://www.credly.com/users/dungict/badges
