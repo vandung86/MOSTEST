@@ -1,4 +1,4 @@
-#Project 1: Project 1
+#Project 1: Project 1: sdfsfs
 Apply the Lines (Stylish) style set to the document.
 In the "Rosa" section, convert the five paragraphs starting with "Banksianae" to a bulleted list. Align the bullets with the left page margin. (Do not change the hanging indent distance.)
 In the "Contact Us" section, insert a footnote to the right of the heading. Enter the footnote text "includes Address"
