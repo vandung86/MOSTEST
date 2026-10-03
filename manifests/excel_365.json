@@ -1,0 +1,116 @@
+{
+  "schema_version": "1.0",
+  "application": "Excel",
+  "office_version": "365",
+  "release_tag": "office-assets-excel-365-v1",
+  "projects": [
+    {
+      "project_id": 1,
+      "version": "1.0",
+      "filename": "Microsoft.365.Apps.-.Excel.-.Project.01.xlsx",
+      "download_url": "https://github.com/vandung86/MOSTEST/releases/download/office-assets-excel-365-v1/Microsoft.365.Apps.-.Excel.-.Project.01.xlsx",
+      "sha256": "0bc262d044c9efcaaa3b49c3d5dfb74351e835f3a643efb4093d28fe470942ac",
+      "size": 38903,
+      "resources": []
+    },
+    {
+      "project_id": 2,
+      "version": "1.0",
+      "filename": "Microsoft.365.Apps.-.Excel.-.Project.02.xlsx",
+      "download_url": "https://github.com/vandung86/MOSTEST/releases/download/office-assets-excel-365-v1/Microsoft.365.Apps.-.Excel.-.Project.02.xlsx",
+      "sha256": "4cd298cb6fdb9ac710169e7fba9d5cb20e4ef930693139365e41b13cd0ca7e74",
+      "size": 167060,
+      "resources": []
+    },
+    {
+      "project_id": 3,
+      "version": "1.0",
+      "filename": "Microsoft.365.Apps.-.Excel.-.Project.03.xlsx",
+      "download_url": "https://github.com/vandung86/MOSTEST/releases/download/office-assets-excel-365-v1/Microsoft.365.Apps.-.Excel.-.Project.03.xlsx",
+      "sha256": "996394d63f7a9dd9476a2fa552dadaad0f1de23ddf14715c2ed337ed4bfa3dd8",
+      "size": 472338,
+      "resources": []
+    },
+    {
+      "project_id": 4,
+      "version": "1.0",
+      "filename": "Microsoft.365.Apps.-.Excel.-.Project.04.xlsx",
+      "download_url": "https://github.com/vandung86/MOSTEST/releases/download/office-assets-excel-365-v1/Microsoft.365.Apps.-.Excel.-.Project.04.xlsx",
+      "sha256": "06b4da74790145cdcc9629b23fc0df36adffd111b05dfa91942965d542e937bc",
+      "size": 30635,
+      "resources": []
+    },
+    {
+      "project_id": 5,
+      "version": "1.0",
+      "filename": "Microsoft.365.Apps.-.Excel.-.Project.05.xlsx",
+      "download_url": "https://github.com/vandung86/MOSTEST/releases/download/office-assets-excel-365-v1/Microsoft.365.Apps.-.Excel.-.Project.05.xlsx",
+      "sha256": "fde512d2f61b1bad911b027ede04508b3af9b3dd96e62dcafbe12573647c2843",
+      "size": 170310,
+      "resources": []
+    },
+    {
+      "project_id": 6,
+      "version": "1.0",
+      "filename": "Microsoft.365.Apps.-.Excel.-.Project.06.xlsx",
+      "download_url": "https://github.com/vandung86/MOSTEST/releases/download/office-assets-excel-365-v1/Microsoft.365.Apps.-.Excel.-.Project.06.xlsx",
+      "sha256": "bfdfd16b8722e1a0fd2ee0adfab0be5efc89b623ba1c78426f9aa63f390dedfb",
+      "size": 110473,
+      "resources": []
+    },
+    {
+      "project_id": 7,
+      "version": "1.0",
+      "filename": "Microsoft.365.Apps.-.Excel.-.Project.07.xlsx",
+      "download_url": "https://github.com/vandung86/MOSTEST/releases/download/office-assets-excel-365-v1/Microsoft.365.Apps.-.Excel.-.Project.07.xlsx",
+      "sha256": "0ff85088fd8765075b4cfa7ac0d290e0790a05d55ac96a9d09417ffd248d1242",
+      "size": 21879,
+      "resources": []
+    },
+    {
+      "project_id": 8,
+      "version": "1.0",
+      "filename": "Microsoft.365.Apps.-.Excel.-.Project.08.xlsx",
+      "download_url": "https://github.com/vandung86/MOSTEST/releases/download/office-assets-excel-365-v1/Microsoft.365.Apps.-.Excel.-.Project.08.xlsx",
+      "sha256": "a7f7214192fbdfa9cf4d12d7261f4dec64d0e281fc8ebd9e98106a567b5e6ef3",
+      "size": 59764,
+      "resources": []
+    },
+    {
+      "project_id": 9,
+      "version": "1.0",
+      "filename": "Microsoft.365.Apps.-.Excel.-.Project.09.xlsx",
+      "download_url": "https://github.com/vandung86/MOSTEST/releases/download/office-assets-excel-365-v1/Microsoft.365.Apps.-.Excel.-.Project.09.xlsx",
+      "sha256": "afb19cf3ba8a434dc37844fe9bff24b3fb23213ea9438703867fd0e6d1352e11",
+      "size": 43109,
+      "resources": []
+    },
+    {
+      "project_id": 10,
+      "version": "1.0",
+      "filename": "Microsoft.365.Apps.-.Excel.-.Project.10.xlsx",
+      "download_url": "https://github.com/vandung86/MOSTEST/releases/download/office-assets-excel-365-v1/Microsoft.365.Apps.-.Excel.-.Project.10.xlsx",
+      "sha256": "9fcc11e6f14f0b95cfb40e3436a6d18e7095d3858258bc8eec04d1959430a492",
+      "size": 50461,
+      "resources": []
+    },
+    {
+      "project_id": 11,
+      "version": "1.0",
+      "filename": "Microsoft.365.Apps.-.Excel.-.Project.11.xlsx",
+      "download_url": "https://github.com/vandung86/MOSTEST/releases/download/office-assets-excel-365-v1/Microsoft.365.Apps.-.Excel.-.Project.11.xlsx",
+      "sha256": "43520dbea1e5557ed5e0a728f9ea2f690b0f8009ef2d60659e75ef9dade7854c",
+      "size": 45818,
+      "resources": []
+    },
+    {
+      "project_id": 12,
+      "version": "1.0",
+      "filename": "Microsoft.365.Apps.-.Excel.-.Project.12.xlsx",
+      "download_url": "https://github.com/vandung86/MOSTEST/releases/download/office-assets-excel-365-v1/Microsoft.365.Apps.-.Excel.-.Project.12.xlsx",
+      "sha256": "e93fd854f43621a613f4814dd80aea4d8ffb9af22680502fe6f3ec77842e125a",
+      "size": 112625,
+      "resources": []
+    }
+  ]
+}

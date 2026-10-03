@@ -1,0 +1,116 @@
+{
+  "schema_version": "1.0",
+  "application": "PowerPoint",
+  "office_version": "365",
+  "release_tag": "office-assets-powerpoint-365-v1",
+  "projects": [
+    {
+      "project_id": 1,
+      "version": "1.0",
+      "filename": "Microsoft.365.Apps.-.PowerPoint.-.Project.01.pptx",
+      "download_url": "https://github.com/vandung86/MOSTEST/releases/download/office-assets-powerpoint-365-v1/Microsoft.365.Apps.-.PowerPoint.-.Project.01.pptx",
+      "sha256": "71887dc0b9fbc4002909e80696120dbca1e41437f555611feee0b597203dd4b1",
+      "size": 7748049,
+      "resources": []
+    },
+    {
+      "project_id": 2,
+      "version": "1.0",
+      "filename": "Microsoft.365.Apps.-.PowerPoint.-.Project.02.pptx",
+      "download_url": "https://github.com/vandung86/MOSTEST/releases/download/office-assets-powerpoint-365-v1/Microsoft.365.Apps.-.PowerPoint.-.Project.02.pptx",
+      "sha256": "5cb2b007c625fce96aa87a9a6228ffb1bdaa68e42e74680e8a0933a0756c7be7",
+      "size": 12156363,
+      "resources": []
+    },
+    {
+      "project_id": 3,
+      "version": "1.0",
+      "filename": "Microsoft.365.Apps.-.PowerPoint.-.Project.03.pptx",
+      "download_url": "https://github.com/vandung86/MOSTEST/releases/download/office-assets-powerpoint-365-v1/Microsoft.365.Apps.-.PowerPoint.-.Project.03.pptx",
+      "sha256": "6b27a33f738b1a365c3473f1372f7b1f46888ce116b209ab8d42cf72e3e8fc82",
+      "size": 2255974,
+      "resources": []
+    },
+    {
+      "project_id": 4,
+      "version": "1.0",
+      "filename": "Microsoft.365.Apps.-.PowerPoint.-.Project.04.pptx",
+      "download_url": "https://github.com/vandung86/MOSTEST/releases/download/office-assets-powerpoint-365-v1/Microsoft.365.Apps.-.PowerPoint.-.Project.04.pptx",
+      "sha256": "39bae6dce51146f55deba1067badb7a83c8eb0004e1e5b8aeeb9dda4e748a771",
+      "size": 11149850,
+      "resources": []
+    },
+    {
+      "project_id": 5,
+      "version": "1.0",
+      "filename": "Microsoft.365.Apps.-.PowerPoint.-.Project.05.pptx",
+      "download_url": "https://github.com/vandung86/MOSTEST/releases/download/office-assets-powerpoint-365-v1/Microsoft.365.Apps.-.PowerPoint.-.Project.05.pptx",
+      "sha256": "5aa59f72c9a66b9eaa5286a0857b3e1eafa1a52fd0741f108719cfecbafa230a",
+      "size": 50670767,
+      "resources": []
+    },
+    {
+      "project_id": 6,
+      "version": "1.0",
+      "filename": "Microsoft.365.Apps.-.PowerPoint.-.Project.06.pptx",
+      "download_url": "https://github.com/vandung86/MOSTEST/releases/download/office-assets-powerpoint-365-v1/Microsoft.365.Apps.-.PowerPoint.-.Project.06.pptx",
+      "sha256": "4af132dd8529bcc2252eb2e3a85c005cdfabf90f976ff2cfbe658176a5542096",
+      "size": 28378763,
+      "resources": []
+    },
+    {
+      "project_id": 7,
+      "version": "1.0",
+      "filename": "Microsoft.365.Apps.-.PowerPoint.-.Project.07.pptx",
+      "download_url": "https://github.com/vandung86/MOSTEST/releases/download/office-assets-powerpoint-365-v1/Microsoft.365.Apps.-.PowerPoint.-.Project.07.pptx",
+      "sha256": "a8db9a3c561f8466d17dae093d00e603fb9e76643442cb1dc8ee80e9672c928b",
+      "size": 10221899,
+      "resources": []
+    },
+    {
+      "project_id": 8,
+      "version": "1.0",
+      "filename": "Microsoft.365.Apps.-.PowerPoint.-.Project.08.pptx",
+      "download_url": "https://github.com/vandung86/MOSTEST/releases/download/office-assets-powerpoint-365-v1/Microsoft.365.Apps.-.PowerPoint.-.Project.08.pptx",
+      "sha256": "69eaa90060d12c7372f1d388e4de3ace8668bfafa2edd7e0667bc8102aa928e6",
+      "size": 10611744,
+      "resources": []
+    },
+    {
+      "project_id": 9,
+      "version": "1.0",
+      "filename": "Microsoft.365.Apps.-.PowerPoint.-.Project.09.pptx",
+      "download_url": "https://github.com/vandung86/MOSTEST/releases/download/office-assets-powerpoint-365-v1/Microsoft.365.Apps.-.PowerPoint.-.Project.09.pptx",
+      "sha256": "96191f02cdbb381c38a1b3d8302beb5d81089d298c1cc6780d8e85fe66d51513",
+      "size": 58048278,
+      "resources": []
+    },
+    {
+      "project_id": 10,
+      "version": "1.0",
+      "filename": "Microsoft.365.Apps.-.PowerPoint.-.Project.10.pptx",
+      "download_url": "https://github.com/vandung86/MOSTEST/releases/download/office-assets-powerpoint-365-v1/Microsoft.365.Apps.-.PowerPoint.-.Project.10.pptx",
+      "sha256": "00fc3bac2f77f37f6631d31b5fd6f6f98842a07de95a0375b749d2dcc5044cdb",
+      "size": 29308824,
+      "resources": []
+    },
+    {
+      "project_id": 11,
+      "version": "1.0",
+      "filename": "Microsoft.365.Apps.-.PowerPoint.-.Project.11.pptx",
+      "download_url": "https://github.com/vandung86/MOSTEST/releases/download/office-assets-powerpoint-365-v1/Microsoft.365.Apps.-.PowerPoint.-.Project.11.pptx",
+      "sha256": "f78faaa02a23ad2ff33efdf166963dc425aef6b70c5212853826128f12ed5b55",
+      "size": 2367783,
+      "resources": []
+    },
+    {
+      "project_id": 12,
+      "version": "1.0",
+      "filename": "Microsoft.365.Apps.-.PowerPoint.-.Project.12.pptx",
+      "download_url": "https://github.com/vandung86/MOSTEST/releases/download/office-assets-powerpoint-365-v1/Microsoft.365.Apps.-.PowerPoint.-.Project.12.pptx",
+      "sha256": "168af62759c94b0757eb31d109ea3ec4b4354a20fe6e6c9d73026d7db649479a",
+      "size": 247876,
+      "resources": []
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "schema_version": "1.0",
+  "application": "Word",
+  "office_version": "365",
+  "release_tag": "office-assets-word-365-v1",
+  "projects": [
+    {
+      "project_id": 1,
+      "version": "1.0",
+      "filename": "Microsoft.365.Apps.-.Word.-.Project.01.docx",
+      "download_url": "https://github.com/vandung86/MOSTEST/releases/download/office-assets-word-365-v1/Microsoft.365.Apps.-.Word.-.Project.01.docx",
+      "sha256": "2f93be0949e0ba89adf57c46885b113448ea269d53c5c2dc490f12f5ef9fab08",
+      "size": 1762764,
+      "resources": []
+    },
+    {
+      "project_id": 2,
+      "version": "1.0",
+      "filename": "Microsoft.365.Apps.-.Word.-.Project.02.docx",
+      "download_url": "https://github.com/vandung86/MOSTEST/releases/download/office-assets-word-365-v1/Microsoft.365.Apps.-.Word.-.Project.02.docx",
+      "sha256": "820f717f6c6efdad2c3c3a8a08fcd1f73126b0beec290775624d33a303ff54da",
+      "size": 126647,
+      "resources": []
+    },
+    {
+      "project_id": 3,
+      "version": "1.0",
+      "filename": "Microsoft.365.Apps.-.Word.-.Project.03.docx",
+      "download_url": "https://github.com/vandung86/MOSTEST/releases/download/office-assets-word-365-v1/Microsoft.365.Apps.-.Word.-.Project.03.docx",
+      "sha256": "30c1941dab85a31faabb4e4ed4d8c75e1a212c17b95e8f383fc2c4859e3c7255",
+      "size": 1509520,
+      "resources": []
+    },
+    {
+      "project_id": 4,
+      "version": "1.0",
+      "filename": "Microsoft.365.Apps.-.Word.-.Project.04.docx",
+      "download_url": "https://github.com/vandung86/MOSTEST/releases/download/office-assets-word-365-v1/Microsoft.365.Apps.-.Word.-.Project.04.docx",
+      "sha256": "f3a4c18c93ff8b2aea13ab9ab90b6d9db13005589828ca0ffd3d0d54d25a67b5",
+      "size": 1466995,
+      "resources": []
+    },
+    {
+      "project_id": 5,
+      "version": "1.0",
+      "filename": "Microsoft.365.Apps.-.Word.-.Project.05.docx",
+      "download_url": "https://github.com/vandung86/MOSTEST/releases/download/office-assets-word-365-v1/Microsoft.365.Apps.-.Word.-.Project.05.docx",
+      "sha256": "915ba21b7d81e320d949342835b9c7601aeb351eccf0639ce5a68142b7a45b7a",
+      "size": 1089085,
+      "resources": []
+    },
+    {
+      "project_id": 6,
+      "version": "1.0",
+      "filename": "Microsoft.365.Apps.-.Word.-.Project.06.docx",
+      "download_url": "https://github.com/vandung86/MOSTEST/releases/download/office-assets-word-365-v1/Microsoft.365.Apps.-.Word.-.Project.06.docx",
+      "sha256": "a0e76a9f562821895b5c036709ca8347c0e2b7b9cea7fac5dde1741ebe8eab82",
+      "size": 2985583,
+      "resources": []
+    },
+    {
+      "project_id": 7,
+      "version": "1.0",
+      "filename": "Microsoft.365.Apps.-.Word.-.Project.07.docx",
+      "download_url": "https://github.com/vandung86/MOSTEST/releases/download/office-assets-word-365-v1/Microsoft.365.Apps.-.Word.-.Project.07.docx",
+      "sha256": "41262af9aa49f61ec52e1e9a48806e60922ed0b94246430523e3ab696780408f",
+      "size": 2539078,
+      "resources": []
+    },
+    {
+      "project_id": 8,
+      "version": "1.0",
+      "filename": "Microsoft.365.Apps.-.Word.-.Project.08.doc",
+      "download_url": "https://github.com/vandung86/MOSTEST/releases/download/office-assets-word-365-v1/Microsoft.365.Apps.-.Word.-.Project.08.doc",
+      "sha256": "46387f8bcb85355e5d9bcdf5bcad87322e160461a995c0d4f2e1c19012cf643b",
+      "size": 165888,
+      "resources": []
+    },
+    {
+      "project_id": 9,
+      "version": "1.0",
+      "filename": "Microsoft.365.Apps.-.Word.-.Project.09.docx",
+      "download_url": "https://github.com/vandung86/MOSTEST/releases/download/office-assets-word-365-v1/Microsoft.365.Apps.-.Word.-.Project.09.docx",
+      "sha256": "49d7c9508e3bb8e03bd66c97fa4923f1ef613574e1b8f0fa29a0d61e8b567a1b",
+      "size": 19315902,
+      "resources": []
+    },
+    {
+      "project_id": 10,
+      "version": "1.0",
+      "filename": "Microsoft.365.Apps.-.Word.-.Project.10.docx",
+      "download_url": "https://github.com/vandung86/MOSTEST/releases/download/office-assets-word-365-v1/Microsoft.365.Apps.-.Word.-.Project.10.docx",
+      "sha256": "e430f19ca9db4709846ac4a13456b6119e4dbe665963a3a340cf3c9350bc2e21",
+      "size": 1414273,
+      "resources": []
+    },
+    {
+      "project_id": 11,
+      "version": "1.0",
+      "filename": "Microsoft.365.Apps.-.Word.-.Project.11.docx",
+      "download_url": "https://github.com/vandung86/MOSTEST/releases/download/office-assets-word-365-v1/Microsoft.365.Apps.-.Word.-.Project.11.docx",
+      "sha256": "0cfe064038cdabfc75ed853b0d4e6c0425813866c40920f449334729a1bd53ce",
+      "size": 14098847,
+      "resources": []
+    },
+    {
+      "project_id": 12,
+      "version": "1.0",
+      "filename": "Microsoft.365.Apps.-.Word.-.Project.12.docx",
+      "download_url": "https://github.com/vandung86/MOSTEST/releases/download/office-assets-word-365-v1/Microsoft.365.Apps.-.Word.-.Project.12.docx",
+      "sha256": "3d62d5da74d5e1f2d981a93d9acb786e145980f913fed404b1133cfbb6d4d9a3",
+      "size": 1478307,
+      "resources": []
+    }
+  ]
+}
